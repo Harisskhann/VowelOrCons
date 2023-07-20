@@ -1,0 +1,8 @@
+D:\VowelOrCons\VowelOrCons\VowelOrConst\bin\Debug\VowelOrConst.exe.config
+D:\VowelOrCons\VowelOrCons\VowelOrConst\bin\Debug\VowelOrConst.exe
+D:\VowelOrCons\VowelOrCons\VowelOrConst\bin\Debug\VowelOrConst.pdb
+D:\VowelOrCons\VowelOrCons\VowelOrConst\obj\Debug\VowelOrConst.csproj.AssemblyReference.cache
+D:\VowelOrCons\VowelOrCons\VowelOrConst\obj\Debug\VowelOrConst.csproj.SuggestedBindingRedirects.cache
+D:\VowelOrCons\VowelOrCons\VowelOrConst\obj\Debug\VowelOrConst.csproj.CoreCompileInputs.cache
+D:\VowelOrCons\VowelOrCons\VowelOrConst\obj\Debug\VowelOrConst.exe
+D:\VowelOrCons\VowelOrCons\VowelOrConst\obj\Debug\VowelOrConst.pdb
